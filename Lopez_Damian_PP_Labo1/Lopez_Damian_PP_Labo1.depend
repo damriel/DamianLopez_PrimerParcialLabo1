@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1621039374 source:c:\users\usuario\documents\programacion 2021\parciales laboratorio 1\damianlopez_primerparciallabo1\lopez_damian_pp_labo1\dam.c
+	"dam.h"
+
+1621033826 c:\users\usuario\documents\programacion 2021\parciales laboratorio 1\damianlopez_primerparciallabo1\lopez_damian_pp_labo1\dam.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621039834 source:c:\users\usuario\documents\programacion 2021\parciales laboratorio 1\damianlopez_primerparciallabo1\lopez_damian_pp_labo1\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dam.h"
+	"alquileres.h"
+	"cliente.h"
+	"juego.h"
+	"categoria.h"
+
+1621038014 source:c:\users\usuario\documents\programacion 2021\parciales laboratorio 1\damianlopez_primerparciallabo1\lopez_damian_pp_labo1\categoria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"categoria.h"
+
+1621039833 source:c:\users\usuario\documents\programacion 2021\parciales laboratorio 1\damianlopez_primerparciallabo1\lopez_damian_pp_labo1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"dam.h"
+
+1621039223 source:c:\users\usuario\documents\programacion 2021\parciales laboratorio 1\damianlopez_primerparciallabo1\lopez_damian_pp_labo1\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juego.h"
+	"categoria.h"
+
+1621039426 source:c:\users\usuario\documents\programacion 2021\parciales laboratorio 1\damianlopez_primerparciallabo1\lopez_damian_pp_labo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dam.h"
+	"dataWarehouse.h"
+	"cliente.h"
+	"alquileres.h"
+
+1621031836 source:c:\users\usuario\documents\programacion 2021\parciales laboratorio 1\damianlopez_primerparciallabo1\lopez_damian_pp_labo1\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dataWarehouse.h"
+
+1621031831 c:\users\usuario\documents\programacion 2021\parciales laboratorio 1\damianlopez_primerparciallabo1\lopez_damian_pp_labo1\datawarehouse.h
+	"juego.h"
+	"categoria.h"
+
+1621039032 c:\users\usuario\documents\programacion 2021\parciales laboratorio 1\damianlopez_primerparciallabo1\lopez_damian_pp_labo1\juego.h
+	"categoria.h"
+
+1621029542 c:\users\usuario\documents\programacion 2021\parciales laboratorio 1\damianlopez_primerparciallabo1\lopez_damian_pp_labo1\categoria.h
+
+1621039830 c:\users\usuario\documents\programacion 2021\parciales laboratorio 1\damianlopez_primerparciallabo1\lopez_damian_pp_labo1\alquileres.h
+	"fecha.h"
+	"cliente.h"
+	"juego.h"
+	"categoria.h"
+
+1621029972 c:\users\usuario\documents\programacion 2021\parciales laboratorio 1\damianlopez_primerparciallabo1\lopez_damian_pp_labo1\fecha.h
+
+1621039832 c:\users\usuario\documents\programacion 2021\parciales laboratorio 1\damianlopez_primerparciallabo1\lopez_damian_pp_labo1\cliente.h
+
